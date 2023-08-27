@@ -2,7 +2,7 @@
   tags: [Test]
   author: Rico
   topic: Daten und ihre Spuren
-  liascript: liascr
+  liascript: "https://liascript.github.io/LiveEditor/?/show/file/https://raw.githubusercontent.com/OERit/Informatik/main/helloworld.md"
   Markdown: "link PDF"
   PDF: "https://github.com/OERit/Informatik/releases/download/2023_08_27/helloworld.md.pdf"
   WORD: "LinkWord"
